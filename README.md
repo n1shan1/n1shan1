@@ -44,6 +44,13 @@
   </a>
 </div><br/><br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n1shan1/n1shan1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n1shan1/n1shan1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/n1shan1/n1shan1/output/pacman-contribution-graph.svg">
+</picture>
+</div><br/><br/><br/>
+
 <div align="center">
 # 💻 Tech Stack:
 
@@ -75,11 +82,5 @@
 <br/><br/><br/>
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n1shan1/n1shan1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n1shan1/n1shan1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/n1shan1/n1shan1/output/pacman-contribution-graph.svg">
-</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
